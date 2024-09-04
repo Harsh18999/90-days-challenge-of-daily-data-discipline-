@@ -19,10 +19,10 @@ I started this challenge to push myself and stay consistent with my learning jou
 - **Data Analysis**: Work on projects and tasks.
 
 ## Daily Progress
-Check my daily logs [here](./progress).
+Check my daily logs [here](https://www.linkedin.com/in/harsh-kumar-885181297/).
 
 ## Goals
-- [x] Complete Week 1
+- [ ] Complete Week 1
 - [ ] Complete Week 2
 - [ ] Complete Week 3
 ...
