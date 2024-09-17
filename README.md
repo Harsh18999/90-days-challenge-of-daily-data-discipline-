@@ -14,16 +14,15 @@ This repository tracks my 90-day journey of improving my skills in Data Structur
 
 ## Introduction
 I started this challenge to push myself and stay consistent with my learning journey. The focus areas are:
-- **DSA**: Solve 1-3 problems daily.
+- **DSA**: Solve 1-2 problems daily.
 - **Machine Learning**: Learn new concepts and apply them.
-- **Data Analysis**: Work on projects and tasks.
 
 ## Daily Progress
 Check my daily logs [here](https://www.linkedin.com/in/harsh-kumar-885181297/).
 
 ## Goals
-- [ ] Complete Week 1
-- [ ] Complete Week 2
+- [x] Complete Week 1
+- [x] Complete Week 2
 - [ ] Complete Week 3
 ...
 
